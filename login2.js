@@ -10,7 +10,7 @@ if(username=="admin"&& password=="user")
 }
 else
 {
-    alert("login failed");
+    alert("login failure");
 }
 
 
